@@ -25,6 +25,7 @@
 #include <opencv2/videoio.hpp>
 #include <opencv2/calib3d.hpp>
 #include <iostream>
+#include <tuple>
 
 #define CUDA_CHECK(call) \
     do { \
@@ -69,35 +70,42 @@ void logTime(const string &message, const chrono::steady_clock::time_point &star
 }
 
 // CMD parser
-std::tuple<int, int> parseThresholds(int argc, char *argv[]) {
+std::tuple<int, int> parseThresholds(int argc, char *argv[])
+{
     // Default threshold values
     int lowThreshold = 50;
     int highThreshold = 190;
 
     // If thresholds are provided in the command-line arguments, use them
-    if (argc >= 4) {
-        try {
+    if (argc >= 4)
+    {
+        try
+        {
             // Parse thresholds from the arguments
             lowThreshold = std::stoi(argv[2]);
             highThreshold = std::stoi(argv[3]);
 
             // Ensure the thresholds are within valid ranges
-            if (lowThreshold < 0 || lowThreshold > 255 || highThreshold < 0 || highThreshold > 255) {
+            if (lowThreshold < 0 || lowThreshold > 255 || highThreshold < 0 || highThreshold > 255)
+            {
                 std::cerr << "Error: Thresholds must be between 0 and 255." << std::endl;
                 return std::make_tuple(-1, -1);  // Return error values
             }
 
             // Ensure highThreshold is greater than lowThreshold
-            if (highThreshold <= lowThreshold) {
+            if (highThreshold <= lowThreshold)
+            {
                 std::cerr << "Error: highThreshold must be greater than lowThreshold." << std::endl;
                 return std::make_tuple(-1, -1);  // Return error values
             }
         }
-        catch (const std::invalid_argument &e) {
+        catch (const std::invalid_argument &e)
+        {
             std::cerr << "Error: Invalid threshold values provided. Please provide valid integers." << std::endl;
             return std::make_tuple(-1, -1);  // Return error values
         }
-        catch (const std::out_of_range &e) {
+        catch (const std::out_of_range &e)
+        {
             std::cerr << "Error: Threshold values are out of range." << std::endl;
             return std::make_tuple(-1, -1);  // Return error values
         }
@@ -108,17 +116,17 @@ std::tuple<int, int> parseThresholds(int argc, char *argv[]) {
 }
 
 
-
 // Main function to process video using CUDA
 int main(int argc, char *argv[])
 {
-    if (argc < 2) {
+    if (argc < 2)
+    {
         std::cerr << "Usage: " << argv[0] << " <video_path> [lowThreshold] [highThreshold]" << std::endl;
         return -1;
     }
 
     int lowThreshold;   // Low threshold for Sobel
-    int highThreshold ; // High threshold for Sobel
+    int highThreshold; // High threshold for Sobel
 
     std::tie(lowThreshold, highThreshold) = parseThresholds(argc, argv);
 
@@ -263,7 +271,6 @@ int main(int argc, char *argv[])
             break;
         }
     }
-
 
     // Cleanup
     CUDA_CHECK(cudaFree(d_bgr));

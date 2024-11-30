@@ -13,35 +13,28 @@ This repository contains a CUDA implementation of Sobel Edge Detection on video 
 ## Files Overview
 
 - **kernels.cu**: Contains the CUDA kernels for grayscale conversion, Sobel edge detection, non-maximum suppression, and thresholding.
-- **main.cpp**: The main program file that processes a video using CUDA acceleration for Sobel edge detection.
-- **CMakeLists.txt**: CMake build configuration file.
-- **README.md**: Documentation with instructions.
+- **sobel_edge_detection.cu**: The main program file that processes a video using CUDA acceleration for Sobel edge detection.
 
-## Compilation
+## Steps to compile:
 
-To compile the program, you can use CMake to generate the makefile for your environment.
+```bash
+# Install dependencies (on Ubuntu-based systems)
+sudo apt update
+sudo apt install build-essential pkg-config libopencv-dev nvidia-cuda-toolkit
 
-### Steps to compile:
+```
 
-1. Ensure that you have the CUDA toolkit and OpenCV installed on your machine.
+```bash
+# Clone the repository
+git clone https://github.com/snandasena/courseera_gpu_specilization_capstone_project.git
+cd courseera_gpu_specilization_capstone_project
+```
 
-2. Create a build directory inside the project directory:
-   ```bash
-   mkdir build
-   cd build
-   ```
+```bash
 
-3. Run CMake to configure the project:
-   ```bash
-   cmake ..
-   ```
+make all
+```
 
-4. Compile the project using `make`:
-   ```bash
-   make
-   ```
-
-5. The executable will be generated as `sobel_edge_detection_cuda`.
 
 ## Running the Program
 
@@ -54,7 +47,7 @@ Once compiled, you can run the program by providing the path to a video file as 
 
 ### Example with custom thresholds:
 ```bash
-./sobel_edge_detection_cuda /path/to/video.mp4 50 190
+./bin/sobel_edge_detection_cuda ./inputs/project_video.mp4
 ```
 
 Where:
@@ -75,4 +68,4 @@ If you don't provide `low_threshold` and `high_threshold`, the default values wi
 
 ## License
 
-This code is released under the MIT License.
+This code is released under the Apache License.
