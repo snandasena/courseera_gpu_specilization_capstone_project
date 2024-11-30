@@ -31,7 +31,7 @@ include_directories(${OpenCV_INCLUDE_DIRS}
 
 
 # Add executable target
-add_executable(${PROJECT_NAME} src/main.cu)
+add_executable(${PROJECT_NAME} src/sobel_edge_detection.cu)
 
 # Link CUDA libraries, including OpenCV libraries
 target_link_libraries(${PROJECT_NAME}

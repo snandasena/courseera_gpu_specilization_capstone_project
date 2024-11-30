@@ -1,147 +1,78 @@
 
-# GPU Specialization Capstone Project
+# Sobel Edge Detection using CUDA
 
-This project implements a CUDA-based pipeline for real-time video processing, specifically focusing on Canny edge detection and GPU-accelerated computations. The project is part of the Coursera GPU Specialization Capstone.
+This repository contains a CUDA implementation of Sobel Edge Detection on video frames. The program uses CUDA to accelerate the process of converting BGR frames to grayscale, applying the Sobel operator for edge detection, and performing non-maximum suppression and thresholding.
 
-## Table of Contents
+## Requirements
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [License](#license)
+- NVIDIA GPU with CUDA support
+- CUDA Toolkit (version 10.0 or higher)
+- OpenCV (version 4.0 or higher)
+- C++ compiler (e.g., g++ or clang++)
 
----
+## Files Overview
 
-## Overview
+- **kernels.cu**: Contains the CUDA kernels for grayscale conversion, Sobel edge detection, non-maximum suppression, and thresholding.
+- **main.cpp**: The main program file that processes a video using CUDA acceleration for Sobel edge detection.
+- **CMakeLists.txt**: CMake build configuration file.
+- **README.md**: Documentation with instructions.
 
-The **GPU Specialization Capstone Project** demonstrates the use of CUDA for optimizing video processing tasks. It showcases the implementation of key steps in the Canny edge detection algorithm using CUDA kernels, replacing traditional CPU-based computations for improved performance.
+## Compilation
 
-The pipeline includes:
-1. **Color Conversion**: Converts input frames from BGR to Grayscale using a CUDA kernel.
-2. **Edge Detection**: Applies the Sobel operator for gradient computation.
-3. **Non-Maximum Suppression**: Filters out non-edge pixels.
-4. **Thresholding**: Performs edge detection with user-defined thresholds.
+To compile the program, you can use CMake to generate the makefile for your environment.
 
----
+### Steps to compile:
 
-## Features
+1. Ensure that you have the CUDA toolkit and OpenCV installed on your machine.
 
-- GPU-accelerated video processing using CUDA.
-- Modular CUDA kernels for:
-  - Color space conversion.
-  - Sobel gradient computation.
-  - Non-maximum suppression.
-  - Thresholding.
-- Real-time video frame processing with OpenCV integration.
-- Highly configurable through input arguments and threshold values.
-
----
-
-## Technologies
-
-The project leverages the following technologies:
-
-- **CUDA**: GPU programming for high-performance computing.
-- **OpenCV**: For video input/output and basic image handling.
-- **C++**: Core programming language for the application.
-
----
-
-## Setup and Installation
-
-### Prerequisites
-
-1. **CUDA Toolkit**: Ensure CUDA is installed on your system and your GPU supports it.
-   - [Download CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
-2. **OpenCV**: Install OpenCV with C++ bindings.
-   - On Ubuntu: `sudo apt install libopencv-dev`
-3. **CMake**: Required for building the project.
-
-### Installation Steps
-
-1. Clone the repository:
+2. Create a build directory inside the project directory:
    ```bash
-   git clone https://github.com/snandasena/courseera_gpu_specilization_capstone_project.git
-   cd courseera_gpu_specilization_capstone_project
+   mkdir build
+   cd build
    ```
 
-2. Create a build directory and compile the project:
+3. Run CMake to configure the project:
    ```bash
-   mkdir build && cd build
    cmake ..
+   ```
+
+4. Compile the project using `make`:
+   ```bash
    make
    ```
 
-3. The compiled executable will be available in the `bin/` directory.
+5. The executable will be generated as `sobel_edge_detection_cuda`.
 
----
+## Running the Program
 
-## Usage
+Once compiled, you can run the program by providing the path to a video file as a command-line argument. You can also specify the low and high thresholds for the Sobel operator detection.
 
-### Running the Application
-
-1. Provide the video file path as input:
-   ```bash
-   ./bin/main.exe path/to/video.mp4
-   ```
-
-2. For real-time logging and output redirection:
-   ```bash
-   make run ARGS="path/to/video.mp4"
-   ```
-
-3. Output logs will be saved in `outputs.log`.
-
-### Command Line Arguments
-
-- **Input Video Path**: Specify the path to the video file to be processed.
-- **Thresholds**: Modify `lowThreshold` and `highThreshold` values within the code for different edge detection sensitivity.
-
----
-
-## Code Structure
-
-```
-.
-├── CMakeLists.txt            # Build configuration
-├── src/
-│   ├── main.cpp              # Main program entry point
-│   └── kernels.h             # Cuda Kernels
-├── inputs/                   # Sample video files (placeholder)
-├── logs/                     # Output directory for logs
-└── README.md                 # Project documentation
+### Example command:
+```bash
+./sobel_edge_detection_cuda <video_path> <low_threshold> <high_threshold>
 ```
 
-### Key Components
+### Example with custom thresholds:
+```bash
+./sobel_edge_detection_cuda /path/to/video.mp4 50 190
+```
 
-- **CUDA Kernels**:
-  - `bgrToGrayscaleKernel`: Converts BGR to grayscale.
-  - `sobelKernel`: Computes image gradients using Sobel filters.
-  - `nonMaxSuppression`: Suppresses non-maximum gradient values.
-  - `applyThreshold`: Applies thresholding for edge classification.
+Where:
+- `<video_path>`: Path to the input video file.
+- `<low_threshold>`: Low threshold for edge detection (integer).
+- `<high_threshold>`: High threshold for edge detection (integer).
 
-- **Main Pipeline**:
-  - Captures video frames.
-  - Processes each frame using CUDA kernels.
-  - Displays processed output in real time.
+If you don't provide `low_threshold` and `high_threshold`, the default values will be used (50 and 190, respectively).
 
----
+### Stopping the Program
+- Press `q` or `ESC` to stop the program and exit.
+
+## Troubleshooting
+
+- If the program fails to start, ensure that you have a CUDA-capable GPU and that CUDA is properly installed.
+- Ensure that OpenCV is linked correctly with the project.
+- If you encounter issues with CMake, check your CMake version and OpenCV path.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software, provided that you include proper attribution.
-
---- 
-
-### Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or bug fixes.
-
----
-
-For any issues or questions, please open an [issue](https://github.com/snandasena/courseera_gpu_specilization_capstone_project/issues).
-
-Enjoy coding! 🚀
+This code is released under the MIT License.
