@@ -1,0 +1,6304 @@
+Processing video: ./data/project_video.mp4
+Allocating GPU memory...
+Memory allocation took 1471 ms
+Processing frame...
+Copying frame to GPU took 15 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 10 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 0 ms
+Sobel kernel took 0 ms
+Copying result to CPU took 0 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 3 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 3 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 8 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 8 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 8 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 1 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 9 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 8 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 7 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 6 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 5 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 2 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 4 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 3 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 2 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Processing frame...
+Copying frame to GPU took 2 ms
+Grayscale conversion took 3 ms
+Sobel kernel took 1 ms
+Copying result to CPU took 1 ms
+Cleanup completed. Goodbye!
