@@ -3,6 +3,10 @@
 
 This repository contains a CUDA implementation of Sobel Edge Detection on video frames. The program uses CUDA to accelerate the process of converting BGR frames to grayscale, applying the Sobel operator for edge detection, and performing non-maximum suppression and thresholding.
 
+### Project demo
+[![YouTube Video](https://img.youtube.com/vi/8UCrLjgqONs/0.jpg)](https://www.youtube.com/watch?v=8UCrLjgqONs)
+
+
 ## Requirements
 
 - NVIDIA GPU with CUDA support
